@@ -10,5 +10,5 @@
 
 [Link zu Google](https://www.google.com)
 
-![Bildbeschreibung](bilder/bild.jpg)
+![Bildbeschreibung](bild.jpg)
 
