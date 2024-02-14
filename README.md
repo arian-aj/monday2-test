@@ -8,7 +8,9 @@
 - *Listenpunkt 2*
 - Überarbeitung für heute
 - jetzt bearbeitung über Github
-  nochmal über Github bearbeiten
+- nochmal über Github bearbeiten
+- Aufgabe mit Collaborator Sofie
+
 
 [Link zu Google](https://www.google.com)
 
