@@ -11,8 +11,8 @@
 - Überarbeitung für heute
 - jetzt bearbeitung über Github
 - nochmal über Github bearbeiten
-- Aufgabe mit Collaborator Sofie
-
+- Aufgabe mit Collaborator Sophie
+- Hotfix Branch gemacht mit Sophie
 
 -übung umgekehrt
 [Link zu Google](https://www.google.com)
